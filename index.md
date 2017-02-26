@@ -20,11 +20,11 @@ The FDFF is Friendly Darknet Framework([Darknet](https://pjreddie.com/darknet/))
 ## [](#header-3) Snippet Codes
 
 ### [](#header-31) C/C++ Lang.
-'''C++
+```C++
 printf("hello-world")
-'''
+```
 
 ### [](#header-32) Python Lang.
-'''Python
+```Python
 print("hello-world")
-'''
+```
