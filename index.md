@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+Friendly Deep learning Framework Friends Page.
 
 ## [](#header-1) Deep learning Framework
 
@@ -18,6 +19,12 @@ The FDFF is Friendly Darknet Framework([Darknet](https://pjreddie.com/darknet/))
 
 ## [](#header-3) Snippet Codes
 
-### [](#header-31) C/C++ Lang
+### [](#header-31) C/C++ Lang.
+'''C++
+printf("hello-world")
+'''
 
 ### [](#header-32) Python Lang.
+'''Python
+print("hello-world")
+'''
