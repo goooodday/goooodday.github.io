@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Welcome to goooodday page!
 description: goooodday page is sharing a code and content of Deeplearning
-show_downloads: true
+show_downloads: false
 google_analytics:
-theme:
+theme: cayman
